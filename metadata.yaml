@@ -1,0 +1,38 @@
+_repo: The-Knickerbocker-or-New-York-Monthly-Magazine-May-1844Volume-23-Number-5_22172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Clark, Lewis Gaylord
+    aliases:
+    - Clark, Louis Gaylord
+    - Clark, L. Gaylord (Lewis Gaylord)
+    birthdate: 1808
+    deathdate: 1873
+    gutenberg_agent_id: '9300'
+    url: http://www.gutenberg.org/2009/agents/9300
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Gaylord_Clark
+description: ''
+gutenberg_bookshelf: The Knickerbocker
+gutenberg_issued: '2007-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Periodicals'
+- !lcc 'AP'
+title: 'The Knickerbocker, or New-York Monthly Magazine, May 1844
+
+  Volume 23, Number 5'
+url: http://www.gutenberg.org/ebooks/22172
